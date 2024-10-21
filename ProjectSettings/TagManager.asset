@@ -50,3 +50,12 @@ TagManager:
   - name: Layer 3
     uniqueID: 4189426099
     locked: 0
+  - name: Background
+    uniqueID: 3970777
+    locked: 0
+  - name: Platform
+    uniqueID: 3204915867
+    locked: 0
+  - name: Object
+    uniqueID: 3699336413
+    locked: 0
